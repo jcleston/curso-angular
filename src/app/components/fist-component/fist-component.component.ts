@@ -8,6 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class FistComponentComponent implements OnInit {
     // Adicionando uma propriedade na classe
     name: string = 'Cleston';
+    age: number = 40;
+    job = 'Programador';
+    hobbies = ['correr', 'jogar', 'ler'];
 
     constructor() {}
 
