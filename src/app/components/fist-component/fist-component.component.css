@@ -5,3 +5,9 @@ h2 {
 p {
     color: aqua;
 }
+
+.title {
+    background: black;
+    color: aqua;
+    padding: 15px;
+}
